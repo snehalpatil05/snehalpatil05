@@ -27,8 +27,8 @@ Certified AWS Cloud Architect, and DevOps Engineer.
 - Certified Python Developer
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/snehalpatil-qa-engineer
+- Email: snehalptl17@gmail.com
 
 Feel free to connect and explore the world of technology with me! 🚀
 
