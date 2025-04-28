@@ -4,37 +4,29 @@ I'm Snehal Patil.
 
 ### 🧑‍💻 About Me
 I'm an experienced Quality Assurance engineer, 
-My skills also include Python development, MySQL, and Selenium.
-Certified AWS Cloud Architect, and DevOps Engineer.
+My skills also include Manual and Java-Selenium Automation Testing with CI/CD, MySQL, PostgreSql, API testing, Database testing.
 
 ### 🚀 What I'm up to
 - 🔭 I'm currently working on my skill upgradation.
-- 🌱 I'm currently learning Selenium to enhance my automation testing skills.
-- 👯 I'm looking to collaborate on open-source projects related to cloud technologies and testing.
+- 🌱 I'm currently learning AWS-DevOps to enhance my automation testing skills.
+- 👯 I'm looking to collaborate on open-source projects related to Software Testing and Cloud Technology.
 
 ### 💬 Ask me about
 - Software Quality Assurance
 - MySQL Database
-- Python Development
-- AWS Cloud Technologies
-- DevOps and CI/CD
+- PostgreSQL
+- Manual Testing
+- Java-Selenium Automation Testing
+- CI/CD 
+- AWS Cloud Technology and DevOps Basics (Learning Phase)
 
 ### 📚 Education and Certification
-- Completed Bachelor of Engineering (E&C) 
-- Completed MySQL course
-- Certified AWS Cloud Architect
-- Certified DevOps Engineer
-- Certified Python Developer
+- Completed Bachelor of Engineering in Electronics & Communication (BE in E&C) 
 
 ### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/snehalpatil-qa-engineer
-- Email: snehalptl17@gmail.com
+- Email: snehal.patil5895@gmail.com
 
 Feel free to connect and explore the world of technology with me! 🚀
-
-
-
-<!--
-**snehalpatil05/snehalpatil05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
